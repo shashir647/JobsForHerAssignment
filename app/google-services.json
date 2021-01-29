@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "135139864770",
+    "project_id": "pushnotificationjobsforher",
+    "storage_bucket": "pushnotificationjobsforher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135139864770:android:9a5c407597f7ec412e8b5b",
+        "android_client_info": {
+          "package_name": "com.shashi.jobsforherassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135139864770-n1mckngl8vreu9ma7aq0cqmskj38fjnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shashi.jobsforherassignment",
+            "certificate_hash": "1a7a49577424bed9790a83dc973880fc08b9dc5f"
+          }
+        },
+        {
+          "client_id": "135139864770-sqb5o6mcamo44t1fhghvfialh9jv0f1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBryC5WWv8xpXW9Ptg-ItmR1qkQrIZGdt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135139864770-sqb5o6mcamo44t1fhghvfialh9jv0f1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">JobsForHerAssignment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="google_login">Google Login</string>
+    <string name="SENDER_ID">FOwsX9g0Y0hEkcw2W49kLoN5X0D2</string>
+    <string name="notifications_admin_channel_name">Android4Dev</string>
+    <string name="notifications_admin_channel_description">Android4Dev Firebase PushNotification</string>
+    <string name="token_prefix">Token: %s</string>
+
+    <string name="token_error">getInstanceId failed</string>
+
+    <string name="handle_notification_now">We are going to do something with our notification right now!</string>
+
+    <string name="retrieve_token">Retrieve Token</string>
+    <string name="btn_send_topic">Send Topic</string>
+    <string name="result">Something will happen Here</string>
+    <string name="notification_channel_id">default</string>
+
+
+    <array name="topics">
+        <item>Login</item>
+        <item>Activity1</item>
+        <item>Activity2</item>
+    </array>
+</resources>

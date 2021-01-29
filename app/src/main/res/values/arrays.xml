@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--These two arrays list cooking time intervals in minutes and the text representing
+	that interval. They need to be in sync when anything added, removed or modified   -->
+
+    <!--Text values of cooking time intervals -->
+    <string-array name="egg_array">
+        <item>Open Activity 1</item>
+        <item>Open Activity 2</item>
+        <item>Login Activity</item>
+    </string-array>
+</resources>
